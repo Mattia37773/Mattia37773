@@ -30,7 +30,7 @@ I enjoy building modern applications, experimenting with new technologies and im
 <img src="https://cdn.simpleicons.org/craftcms?viewbox=auto&size=48" />
 <br><br>
 
-[![Tools & Platforms](https://skillicons.dev/icons?perline=6&i=git,github,gitlab,vscode,phpstorm,npm,bun,vite,linux,raspberrypi,apple)](#)&#8195;&#8195;&#8194;&#8202;
+[![Tools & Platforms](https://skillicons.dev/icons?perline=6&i=git,github,githubactions,vscode,vite,linux,raspberrypi,apple)](#)&#8195;&#8195;&#8194;&#8202;
 [![Cloud & Infrastructure](https://skillicons.dev/icons?perline=4&i=aws,netlify,terraform,docker,mysql,mongodb,nginx)](#)<br><br>
 
 </div>
