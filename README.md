@@ -7,8 +7,6 @@
 </p>
 
 ## About Me
-I'm Mattia
-
 I'm a **Software Engineering Apprentice** from Switzerland 🇨🇭 
 Passionate about **web development, backend systems and DevOps**.
 
