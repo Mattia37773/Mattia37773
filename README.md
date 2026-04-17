@@ -15,13 +15,13 @@ I enjoy building modern applications, experimenting with new technologies and im
 ## Currently Learning
 
 - Symfony
-- MongoDB
+- Go
 
-<!-- Programming Languages-->
-## Programming Languages
+<!-- Skills -->
+## Skills
 <div align="center"><br>
 
-[![Languages](https://skillicons.dev/icons?perline=8&i=php,java,bash,html,css,sass,md)](#)
+[![Languages](https://skillicons.dev/icons?perline=8&i=php,java,bash,html,css,sass,md,go)](#)
 <br><br>
 
 [![Frameworks & Libraries](https://skillicons.dev/icons?perline=6&i=alpinejs,bootstrap,symfony)](#)
