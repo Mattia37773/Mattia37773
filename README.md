@@ -29,7 +29,7 @@ I enjoy building modern applications, experimenting with new technologies and im
 <br><br>
 
 [![Tools & Platforms](https://skillicons.dev/icons?perline=4&i=git,github,githubactions,vscode,vite,linux,raspberrypi,apple)](#)&#8195;&#8195;&#8194;&#8202;
-[![Cloud & Infrastructure](https://skillicons.dev/icons?perline=4&i=aws,netlify,terraform,docker,mysql,mongodb,nginx)](#)<br><br>
+[![Cloud & Infrastructure](https://skillicons.dev/icons?perline=4&i=aws,netlify,terraform,docker,mysql,mongodb)](#)<br><br>
 
 </div>
 
